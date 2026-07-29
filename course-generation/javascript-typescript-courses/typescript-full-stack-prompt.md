@@ -1,6 +1,8 @@
-# 📝 Prompt ตั้งต้น (Initial Generation)
+📍 **Nav:** [`🏠 AI Learning Prompts Hub`](../../README.md) | [`📂 JavaScript & TypeScript Prompts Index`](./README.md) | 📖 [`Course Output: TypeScript Full-Stack`](https://github.com/worapha05/javascript-typescript-courses/blob/main/typescript-full-stack/README.md)
 
 ---
+
+# 📝 Prompt ตั้งต้น (Initial Generation)
 
 ```text
 # Role & Context

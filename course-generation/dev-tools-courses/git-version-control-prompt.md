@@ -1,6 +1,8 @@
-# 📝 Prompt ตั้งต้น (Initial Generation)
+📍 **Nav:** [`🏠 AI Learning Prompts Hub`](../../README.md) | [`📂 Dev Tools Prompts Index`](./README.md) | 📖 [`Course Output: Git & Version Control`](https://github.com/worapha05/dev-tools-courses/blob/main/git-version-control/README.md)
 
 ---
+
+# 📝 Prompt ตั้งต้น (Initial Generation)
 
 ```text
 # Role & Context

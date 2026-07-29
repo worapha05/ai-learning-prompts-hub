@@ -1,4 +1,4 @@
-📍 **Nav:** [`🏠 AI Learning Prompts Hub`](../../README.md) | [`📂 API Design Prompts Index`](./README.md) | 📖 [`Course Output: Intermediate API Design`](https://github.com/worapha05/api-design-courses/blob/main/intermediate-api-design/README.md)
+📍 **Nav:** [`🏠 AI Learning Prompts Hub`](../../README.md) | [`📂 API Design Prompts Index`](./README.md) | [`📖 Course Output: Intermediate API Design`](https://github.com/worapha05/api-design-courses/blob/main/intermediate-api-design/README.md)
 
 ---
 

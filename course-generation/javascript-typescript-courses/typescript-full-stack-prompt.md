@@ -1,4 +1,4 @@
-📍 **Nav:** [`🏠 AI Learning Prompts Hub`](../../README.md) | [`📂 JavaScript & TypeScript Prompts Index`](./README.md) | 📖 [`Course Output: TypeScript Full-Stack`](https://github.com/worapha05/javascript-typescript-courses/blob/main/typescript-full-stack/README.md)
+📍 **Nav:** [`🏠 AI Learning Prompts Hub`](../../README.md) | [`📂 JavaScript & TypeScript Prompts Index`](./README.md) | [`📖 Course Output: TypeScript Full-Stack`](https://github.com/worapha05/javascript-typescript-courses/blob/main/typescript-full-stack/README.md)
 
 ---
 

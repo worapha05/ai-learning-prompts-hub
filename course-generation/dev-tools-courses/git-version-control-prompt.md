@@ -1,4 +1,4 @@
-📍 **Nav:** [`🏠 AI Learning Prompts Hub`](../../README.md) | [`📂 Dev Tools Prompts Index`](./README.md) | 📖 [`Course Output: Git & Version Control`](https://github.com/worapha05/dev-tools-courses/blob/main/git-version-control/README.md)
+📍 **Nav:** [`🏠 AI Learning Prompts Hub`](../../README.md) | [`📂 Dev Tools Prompts Index`](./README.md) | [`📖 Course Output: Git & Version Control`](https://github.com/worapha05/dev-tools-courses/blob/main/git-version-control/README.md)
 
 ---
 

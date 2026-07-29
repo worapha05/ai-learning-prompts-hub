@@ -1,4 +1,4 @@
-📍 **Nav:** [`🏠 AI Learning Prompts Hub`](../../README.md) | [`📂 Computer Science Prompts Index`](./README.md) | 📖 [`Course Output: Data Structures & Algorithms`](https://github.com/worapha05/computer-science-courses/blob/main/data-structures-algorithms/README.md)
+📍 **Nav:** [`🏠 AI Learning Prompts Hub`](../../README.md) | [`📂 Computer Science Prompts Index`](./README.md) | [`📖 Course Output: Data Structures & Algorithms`](https://github.com/worapha05/computer-science-courses/blob/main/data-structures-algorithms/README.md)
 
 ---
 

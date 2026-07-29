@@ -1,4 +1,4 @@
-📍 **Nav:** [`🏠 AI Learning Prompts Hub`](../../README.md) | [`📂 Computer Science Prompts Index`](./README.md) | 📖 [`Course Output: System Architecture & Design Patterns`](https://github.com/worapha05/computer-science-courses/blob/main/system-architecture-design-patterns/README.md)
+📍 **Nav:** [`🏠 AI Learning Prompts Hub`](../../README.md) | [`📂 Computer Science Prompts Index`](./README.md) | [`📖 Course Output: System Architecture & Design Patterns`](https://github.com/worapha05/computer-science-courses/blob/main/system-architecture-design-patterns/README.md)
 
 ---
 

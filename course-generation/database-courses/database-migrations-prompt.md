@@ -1,4 +1,4 @@
-📍 **Nav:** [`🏠 AI Learning Prompts Hub`](../../README.md) | [`📂 Database Prompts Index`](./README.md) | 📖 [`Course Output: Database Migrations`](https://github.com/worapha05/database-courses/blob/main/database-migrations/README.md)
+📍 **Nav:** [`🏠 AI Learning Prompts Hub`](../../README.md) | [`📂 Database Prompts Index`](./README.md) | [`📖 Course Output: Database Migrations`](https://github.com/worapha05/database-courses/blob/main/database-migrations/README.md)
 
 ---
 

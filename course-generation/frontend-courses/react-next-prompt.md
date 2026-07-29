@@ -1,4 +1,4 @@
-📍 **Nav:** [`🏠 AI Learning Prompts Hub`](../../README.md) | [`📂 Frontend Prompts Index`](./README.md) | 📖 [`Course Output: React & Next.js`](https://github.com/worapha05/frontend-courses/blob/main/react-next/README.md)
+📍 **Nav:** [`🏠 AI Learning Prompts Hub`](../../README.md) | [`📂 Frontend Prompts Index`](./README.md) | [`📖 Course Output: React & Next.js`](https://github.com/worapha05/frontend-courses/blob/main/react-next/README.md)
 
 ---
 

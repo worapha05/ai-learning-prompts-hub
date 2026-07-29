@@ -1,4 +1,4 @@
-📍 **Nav:** [`🏠 AI Learning Prompts Hub`](../../README.md) | [`📂 Backend Prompts Index`](./README.md) | 📖 [`Course Output: C# + .NET Core`](https://github.com/worapha05/backend-courses/blob/main/c-sharp-net-core/README.md)
+📍 **Nav:** [`🏠 AI Learning Prompts Hub`](../../README.md) | [`📂 Backend Prompts Index`](./README.md) | [`📖 Course Output: C# + .NET Core`](https://github.com/worapha05/backend-courses/blob/main/c-sharp-net-core/README.md)
 
 ---
 

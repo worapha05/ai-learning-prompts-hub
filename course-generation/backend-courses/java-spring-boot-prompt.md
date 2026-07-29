@@ -1,4 +1,4 @@
-📍 **Nav:** [`🏠 AI Learning Prompts Hub`](../../README.md) | [`📂 Backend Prompts Index`](./README.md) | 📖 [`Course Output: Java + Spring Boot`](https://github.com/worapha05/backend-courses/blob/main/java-spring-boot/README.md)
+📍 **Nav:** [`🏠 AI Learning Prompts Hub`](../../README.md) | [`📂 Backend Prompts Index`](./README.md) | [`📖 Course Output: Java + Spring Boot`](https://github.com/worapha05/backend-courses/blob/main/java-spring-boot/README.md)
 
 ---
 

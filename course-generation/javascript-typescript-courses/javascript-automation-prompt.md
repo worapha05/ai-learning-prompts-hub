@@ -1,4 +1,4 @@
-📍 **Nav:** [`🏠 AI Learning Prompts Hub`](../../README.md) | [`📂 JavaScript & TypeScript Prompts Index`](./README.md) | 📖 [`Course Output: JavaScript Automation`](https://github.com/worapha05/javascript-typescript-courses/blob/main/javascript-automation/README.md)
+📍 **Nav:** [`🏠 AI Learning Prompts Hub`](../../README.md) | [`📂 JavaScript & TypeScript Prompts Index`](./README.md) | [`📖 Course Output: JavaScript Automation`](https://github.com/worapha05/javascript-typescript-courses/blob/main/javascript-automation/README.md)
 
 ---
 

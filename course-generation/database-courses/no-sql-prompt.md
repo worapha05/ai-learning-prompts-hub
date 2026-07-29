@@ -1,4 +1,4 @@
-📍 **Nav:** [`🏠 AI Learning Prompts Hub`](../../README.md) | [`📂 Database Prompts Index`](./README.md) | 📖 [`Course Output: NoSQL Database`](https://github.com/worapha05/database-courses/blob/main/no-sql/README.md)
+📍 **Nav:** [`🏠 AI Learning Prompts Hub`](../../README.md) | [`📂 Database Prompts Index`](./README.md) | [`📖 Course Output: NoSQL Database`](https://github.com/worapha05/database-courses/blob/main/no-sql/README.md)
 
 ---
 

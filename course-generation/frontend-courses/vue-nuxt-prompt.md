@@ -1,4 +1,4 @@
-📍 **Nav:** [`🏠 AI Learning Prompts Hub`](../../README.md) | [`📂 Frontend Prompts Index`](./README.md) | 📖 [`Course Output: Vue.js & Nuxt`](https://github.com/worapha05/frontend-courses/blob/main/vue-nuxt/README.md)
+📍 **Nav:** [`🏠 AI Learning Prompts Hub`](../../README.md) | [`📂 Frontend Prompts Index`](./README.md) | [`📖 Course Output: Vue.js & Nuxt`](https://github.com/worapha05/frontend-courses/blob/main/vue-nuxt/README.md)
 
 ---
 

@@ -1,4 +1,4 @@
-📍 **Nav:** [`🏠 AI Learning Prompts Hub`](../../README.md) | [`📂 DevOps Prompts Index`](./README.md) | 📖 [`Course Output: Cloud Computing`](https://github.com/worapha05/dev-ops-courses/blob/main/cloud-computing/README.md)
+📍 **Nav:** [`🏠 AI Learning Prompts Hub`](../../README.md) | [`📂 DevOps Prompts Index`](./README.md) | [`📖 Course Output: Cloud Computing`](https://github.com/worapha05/dev-ops-courses/blob/main/cloud-computing/README.md)
 
 ---
 

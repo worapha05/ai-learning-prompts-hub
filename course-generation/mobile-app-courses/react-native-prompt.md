@@ -1,4 +1,4 @@
-📍 **Nav:** [`🏠 AI Learning Prompts Hub`](../../README.md) | [`📂 Mobile App Prompts Index`](./README.md) | 📖 [`Course Output: React Native`](https://github.com/worapha05/mobile-app-courses/blob/main/react-native/README.md)
+📍 **Nav:** [`🏠 AI Learning Prompts Hub`](../../README.md) | [`📂 Mobile App Prompts Index`](./README.md) | [`📖 Course Output: React Native`](https://github.com/worapha05/mobile-app-courses/blob/main/react-native/README.md)
 
 ---
 

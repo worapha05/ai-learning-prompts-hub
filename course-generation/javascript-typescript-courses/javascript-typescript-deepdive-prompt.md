@@ -1,4 +1,4 @@
-📍 **Nav:** [`🏠 AI Learning Prompts Hub`](../../README.md) | [`📂 JavaScript & TypeScript Prompts Index`](./README.md) | 📖 [`Course Output: JavaScript & TypeScript Deep Dive`](https://github.com/worapha05/javascript-typescript-courses/blob/main/javascript-typescript-deepdive/README.md)
+📍 **Nav:** [`🏠 AI Learning Prompts Hub`](../../README.md) | [`📂 JavaScript & TypeScript Prompts Index`](./README.md) | [`📖 Course Output: JavaScript & TypeScript Deep Dive`](https://github.com/worapha05/javascript-typescript-courses/blob/main/javascript-typescript-deepdive/README.md)
 
 ---
 

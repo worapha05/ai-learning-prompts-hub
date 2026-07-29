@@ -1,6 +1,8 @@
-# 📝 Prompt ตั้งต้น (Initial Generation)
+📍 **Nav:** [`🏠 AI Learning Prompts Hub`](../../README.md) | [`📂 Frontend Prompts Index`](./README.md) | 📖 [`Course Output: HTML & CSS Styling`](https://github.com/worapha05/frontend-courses/blob/main/html-css-styling/README.md)
 
 ---
+
+# 📝 Prompt ตั้งต้น (Initial Generation)
 
 ```text
 # Role & Context

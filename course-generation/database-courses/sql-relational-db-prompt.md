@@ -1,6 +1,8 @@
-# 📝 Prompt ตั้งต้น (Initial Generation)
+📍 **Nav:** [`🏠 AI Learning Prompts Hub`](../../README.md) | [`📂 Database Prompts Index`](./README.md) | 📖 [`Course Output: SQL Relational Database`](https://github.com/worapha05/database-courses/blob/main/sql-relational-db/README.md)
 
 ---
+
+# 📝 Prompt ตั้งต้น (Initial Generation)
 
 ```text
 # Role & Context

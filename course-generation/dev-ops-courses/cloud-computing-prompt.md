@@ -1,6 +1,8 @@
-# 📝 Prompt ตั้งต้น (Initial Generation)
+📍 **Nav:** [`🏠 AI Learning Prompts Hub`](../../README.md) | [`📂 DevOps Prompts Index`](./README.md) | 📖 [`Course Output: Cloud Computing`](https://github.com/worapha05/dev-ops-courses/blob/main/cloud-computing/README.md)
 
 ---
+
+# 📝 Prompt ตั้งต้น (Initial Generation)
 
 ```text
 # Role & Context

@@ -1,6 +1,8 @@
-# 📝 Prompt ตั้งต้น (Initial Generation)
+📍 **Nav:** [`🏠 AI Learning Prompts Hub`](../../README.md) | [`📂 Backend Prompts Index`](./README.md) | 📖 [`Course Output: Java + Spring Boot`](https://github.com/worapha05/backend-courses/blob/main/java-spring-boot/README.md)
 
 ---
+
+# 📝 Prompt ตั้งต้น (Initial Generation)
 
 ```text
 # Role & Context

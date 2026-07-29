@@ -1,6 +1,8 @@
-# 📝 Prompt ตั้งต้น (Initial Generation)
+📍 **Nav:** [`🏠 AI Learning Prompts Hub`](../../README.md) | [`📂 DevOps Prompts Index`](./README.md) | 📖 [`Course Output: CI/CD Pipeline`](https://github.com/worapha05/dev-ops-courses/blob/main/ci-cd-pipeline/README.md)
 
 ---
+
+# 📝 Prompt ตั้งต้น (Initial Generation)
 
 ```text
 # Role & Context

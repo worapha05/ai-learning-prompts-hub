@@ -1,6 +1,8 @@
-# 📝 Prompt ตั้งต้น (Initial Generation)
+📍 **Nav:** [`🏠 AI Learning Prompts Hub`](../../README.md) | [`📂 API Design Prompts Index`](./README.md) | 📖 [`Course Output: Advanced API Design`](https://github.com/worapha05/api-design-courses/blob/main/advanced-api-design/README.md)
 
 ---
+
+# 📝 Prompt ตั้งต้น (Initial Generation)
 
 ```text
 # Role & Context

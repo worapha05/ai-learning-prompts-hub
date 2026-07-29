@@ -1,6 +1,8 @@
-# 📝 Prompt ตั้งต้น (Initial Generation)
+📍 **Nav:** [`🏠 AI Learning Prompts Hub`](../../README.md) | [`📂 Testing Prompts Index`](./README.md) | 📖 [`Course Output: Testing Tools`](https://github.com/worapha05/testing-courses/blob/main/testing-tools/README.md)
 
 ---
+
+# 📝 Prompt ตั้งต้น (Initial Generation)
 
 ```text
 # Role & Context

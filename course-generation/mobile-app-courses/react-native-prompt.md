@@ -1,6 +1,8 @@
-# 📝 Prompt ตั้งต้น (Initial Generation)
+📍 **Nav:** [`🏠 AI Learning Prompts Hub`](../../README.md) | [`📂 Mobile App Prompts Index`](./README.md) | 📖 [`Course Output: React Native`](https://github.com/worapha05/mobile-app-courses/blob/main/react-native/README.md)
 
 ---
+
+# 📝 Prompt ตั้งต้น (Initial Generation)
 
 ```text
 # Role & Context

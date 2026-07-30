@@ -1,4 +1,4 @@
-📍 **Nav:** [`🏠 AI Learning Prompts Hub`](../../README.md) | [`📂 Testing Prompts Index`](./README.md) | [`📖 Course Output: Testing Core`](https://github.com/worapha05/testing-courses/blob/main/testing-core/README.md)
+📍 **Nav:** [`🏠 AI Learning Prompts Hub`](../../README.md) | [`📂 Testing Prompts Index`](./README.md) | [`📖 Course Output: Software Testing Fundamentals`](https://github.com/worapha05/testing-courses/blob/main/testing-core/README.md)
 
 ---
 

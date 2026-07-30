@@ -1,4 +1,4 @@
-📍 **Nav:** [`🏠 AI Learning Prompts Hub`](../../README.md) | [`📂 DevOps Prompts Index`](./README.md) | [`📖 Course Output: CI/CD Pipeline`](https://github.com/worapha05/dev-ops-courses/blob/main/ci-cd-pipeline/README.md)
+📍 **Nav:** [`🏠 AI Learning Prompts Hub`](../../README.md) | [`📂 DevOps Prompts Index`](./README.md) | [`📖 Course Output: CI/CD Pipelines`](https://github.com/worapha05/dev-ops-courses/blob/main/ci-cd-pipeline/README.md)
 
 ---
 

@@ -1,4 +1,4 @@
-📍 **Nav:** [`🏠 AI Learning Prompts Hub`](../../README.md) | [`📂 Frontend Prompts Index`](./README.md) | [`📖 Course Output: HTML & CSS Styling`](https://github.com/worapha05/frontend-courses/blob/main/html-css-styling/README.md)
+📍 **Nav:** [`🏠 AI Learning Prompts Hub`](../../README.md) | [`📂 Frontend Prompts Index`](./README.md) | [`📖 Course Output: HTML, CSS & Styling`](https://github.com/worapha05/frontend-courses/blob/main/html-css-styling/README.md)
 
 ---
 

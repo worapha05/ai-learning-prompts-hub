@@ -1,4 +1,4 @@
-📍 **Nav:** [`🏠 AI Learning Prompts Hub`](../../README.md) | [`📂 Frontend Prompts Index`](./README.md) | [`📖 Course Output: Svtle & SvelteKit`](https://github.com/worapha05/frontend-courses/blob/main/svelte/README.md)
+📍 **Nav:** [`🏠 AI Learning Prompts Hub`](../../README.md) | [`📂 Frontend Prompts Index`](./README.md) | [`📖 Course Output: Svelte + SvelteKit`](https://github.com/worapha05/frontend-courses/blob/main/svelte/README.md)
 
 ---
 

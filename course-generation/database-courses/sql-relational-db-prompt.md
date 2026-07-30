@@ -1,4 +1,4 @@
-📍 **Nav:** [`🏠 AI Learning Prompts Hub`](../../README.md) | [`📂 Database Prompts Index`](./README.md) | [`📖 Course Output: SQL Relational Database`](https://github.com/worapha05/database-courses/blob/main/sql-relational-db/README.md)
+📍 **Nav:** [`🏠 AI Learning Prompts Hub`](../../README.md) | [`📂 Database Prompts Index`](./README.md) | [`📖 Course Output: SQL & Relational Databases`](https://github.com/worapha05/database-courses/blob/main/sql-relational-db/README.md)
 
 ---
 

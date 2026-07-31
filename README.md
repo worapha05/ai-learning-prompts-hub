@@ -18,7 +18,7 @@
 
 1. **Select a Category:** Choose a topic from the **Prompts Index** table below.
 2. **Copy Prompt Template:** Navigate to the prompt file and copy the template into your favorite AI tool (ChatGPT, Claude, Gemini).
-3. **Start Learning & Practicing:** Use the generated curriculum, or explore ready-to-use courses via the **Course Index**.
+3. **Start Learning & Practicing:** Use the generated curriculum, or explore ready-to-use courses via the **Courses Index**.
 
 ## 📑 Prompts & Courses Categories
 

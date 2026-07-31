@@ -1,4 +1,4 @@
-# 🛠️ Directory Restructuring & File Cleanup Prompt
+# ♻️ Directory Restructuring & File Cleanup Prompt
 
 - **Topic:** Refactor โครงสร้างโฟลเดอร์ย่อย จัดหมวดหมู่เนื้อหาตามระดับความยาก และ Reformat ไฟล์ทั้งหมด
 - **Category:** Directory & Code Refactoring

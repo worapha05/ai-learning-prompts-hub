@@ -1,4 +1,4 @@
-📍 **Nav:** [`🏠 AI Learning Prompts Hub`](../../README.md)
+📍 **Nav:** [`🏠 AI Learning Prompts Hub`](../README.md)
 
 ---
 

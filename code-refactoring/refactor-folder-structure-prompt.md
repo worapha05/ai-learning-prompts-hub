@@ -1,3 +1,7 @@
+📍 **Nav:** [`🏠 AI Learning Prompts Hub`](../../README.md)
+
+---
+
 # ♻️ Directory Restructuring & File Cleanup Prompt
 
 - **Topic:** Refactor โครงสร้างโฟลเดอร์ย่อย จัดหมวดหมู่เนื้อหาตามระดับความยาก และ Reformat ไฟล์ทั้งหมด

@@ -1,6 +1,6 @@
 # 🤖 AI Learning Prompts Hub
 
-> 📚 **[`Dev Learning Courses Hub`](https://github.com/worapha05/dev-learning-courses-hub/blob/main/README.md)** — Explore all AI-generated courses and practice exercises built from this repository.
+> **[`📚 Dev Learning Courses Hub`](https://github.com/worapha05/dev-learning-courses-hub/blob/main/README.md)** — Explore all AI-generated courses and practice exercises built from this repository.
 >
 > 💡 **Note on Indexes:**
 > * **Prompt Index:** A category-based collection of **AI Prompts** used to generate learning materials.

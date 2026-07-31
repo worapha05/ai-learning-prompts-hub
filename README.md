@@ -10,9 +10,9 @@
 
 ## 📌 Table of Contents
 
-- [🚀 How to Use](#how-to-use)
-- [📑 Prompts & Courses Categories](#prompts--courses-categories)
-- [🛠️ Global Prompts](#global-prompts)
+- [`🚀 How to Use`](#-how-to-use)
+- [`📑 Prompts & Courses Categories`](#-prompts--courses-categories)
+- [`🛠️ Global Prompts`](#️-global-prompts)
 
 ## 🚀 How to Use
 
